@@ -2,7 +2,7 @@
 
 ## Ingredientes
 
-### creme:
+### creme
 
 - 400ml de leite
 
@@ -12,7 +12,7 @@
 - 1 colher de chá de essência de baunilha 
 - 1/2 xícara de chá de leite( para umedecer as bolachas)
 
-### Ganache:
+### Ganache
 
 - 1 caixa de creme de leite
 - 200g de chocolate ao leite(ou meio amargo)
